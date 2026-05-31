@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordetch",
+        "uuid": 6394656,
+        "checksum": "n27ae"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
